@@ -2,7 +2,7 @@
 *.log
 
 # Ignore the node_modules directory
-./node_modules/
+*.node_modules/
 
 # Ignore all files in any directory named temp
 temp/
@@ -11,7 +11,7 @@ temp/
 config.json
 
 # Ignore all .env files
-*.env
+
 
 # Ignore all files in the build directory
 build/
